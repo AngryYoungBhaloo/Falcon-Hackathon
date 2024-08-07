@@ -13,3 +13,5 @@ The Summary of th graph was used to summarise data and get the most central node
 The original tweets were also converted to complete threads.
 
 All these artifacts were pushed in a Vector DB, which was queried when prompting the Falcon 180B model.
+
+### All code is written by Claude.ai
